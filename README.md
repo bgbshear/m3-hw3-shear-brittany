@@ -8,6 +8,6 @@ My first result from Chrome's dev tools.
 
 The details of the 85 SEO score.
 
-<img width="1292" alt="Screen Shot 2024-01-28 at 9 33 45 AM" src="https://github.com/bgbshear/m3-hw3-shear-brittany/assets/156130313/2e2da6de-be76-4f31-ae0c-2ae235">
+<img width="1292" alt="Screen Shot 2024-01-28 at 9 33 45 AM" src="https://github.com/bgbshear/m3-hw3-shear-brittany/assets/156130313/2e2da6de-be76-4f31-ae0c-2ae235fe7060">
 
 My updated results after adding a meta description. Link sizes seemed to be related to styling, which I imagine we will get into in future modules.
